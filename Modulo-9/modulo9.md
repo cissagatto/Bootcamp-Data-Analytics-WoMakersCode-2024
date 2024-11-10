@@ -1,4 +1,4 @@
-O módulo 8 e 9 foram sobre frequencias e medidas na estatística
+Os módulos 8 e 9 foram sobre frequencias e medidas na estatística
 
 Segue link para solução do desafio individual:
 
