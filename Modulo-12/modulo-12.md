@@ -1,4 +1,4 @@
-Os módulos 11 e 12 foram sobre testes de hipóteses
+Os módulos 12 e 13 foram sobre testes de hipóteses
 
 Segue link para solução do desafio individual:
 
