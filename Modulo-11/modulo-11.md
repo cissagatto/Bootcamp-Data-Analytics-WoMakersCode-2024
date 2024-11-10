@@ -1,4 +1,4 @@
-O módulo 10 e 11 foram sobre probabilidades e amostragem em estatística
+Os módulos 10 e 11 foram sobre probabilidades e amostragem em estatística
 
 Segue link para solução do desafio individual:
 
